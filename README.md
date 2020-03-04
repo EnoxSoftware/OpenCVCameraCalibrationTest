@@ -13,7 +13,7 @@
 ## Unity project
 -----
 - Unity 2017.1.5f1+
-- OpenCV for Unity(https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088?aid=1011l4ehR) 2.3.8+ 
+- [OpenCV for Unity](https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088?aid=1011l4ehR) 2.3.8+ 
 
 ### Setup
 1. Import OpenCVForUnity.
