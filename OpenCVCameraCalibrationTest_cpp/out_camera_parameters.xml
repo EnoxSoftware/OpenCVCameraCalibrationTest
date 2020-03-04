@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<intrinsic type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    5.3675373816453441e+02 0. 3.1950000000000000e+02 0.
+    5.3675373816453441e+02 2.3950000000000000e+02 0. 0. 1.</data></intrinsic>
+<distortion type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -3.0798678485523684e-01 2.0517105668500576e-01 0. 0.
+    -1.4101529196093646e-01</data></distortion>
+<repErr>2.0474058161283107e-01</repErr>
+<USE_FIND_CHESSBOARD_CORNERS_SB_METHOD>1</USE_FIND_CHESSBOARD_CORNERS_SB_METHOD>
+<findCornersFlags>50</findCornersFlags>
+<ENABLE_CORNER_SUB_PIX>1</ENABLE_CORNER_SUB_PIX>
+<USE_NEW_CALIBRATION_METHOD>1</USE_NEW_CALIBRATION_METHOD>
+<calibrationFlags>6158</calibrationFlags>
+</opencv_storage>
